@@ -1,0 +1,15 @@
+ $gray: #e2b900;
+
+ body {
+   background: $gray; // Using this variable
+ }
+ .letter {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: cornflowerblue;
+
+
+}
